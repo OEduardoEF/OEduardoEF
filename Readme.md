@@ -1,1 +1,1 @@
-<img src="https://cdn.mitsy.website/Mitsy-assets/Website/img.jpg" height="100" width="200"/>
+<img src="https://cdn.mitsy.website/Mitsy-assets/Website/img.jpg" height="500" width="1000"/>
