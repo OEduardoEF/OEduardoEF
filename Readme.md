@@ -11,5 +11,4 @@
 
 Divirta-se
 
-
-https://cdn.mitsy.website/Mitsy-assets/Website/Triste.mp4
+<img src="https://cdn.mitsy.website/Mitsy-assets/Website/Triste.jpg"/>
